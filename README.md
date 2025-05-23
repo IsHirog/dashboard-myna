@@ -87,23 +87,7 @@ Se houver `.env` ou chaves específicas no futuro, instruções serão adicionad
 Para dúvidas, ajustes ou melhorias, sinta-se à vontade para abrir um issue ou pull request 🚀
 ---
 
-## 📸 Print da tela principal
-
-Coloque sua imagem na pasta `assets/` e use o seguinte código no README:
-
-```markdown
-![Dashboard](assets/print-dashboard.png)
-```
-
-Se preferir usar uma imagem externa:
-
-```markdown
-![Dashboard](https://exemplo.com/sua-imagem.png)
-```
-
-Certifique-se de que o caminho está correto e a imagem está no repositório ou acessível publicamente.
-
----
+## 📸 Prints
 
 ## 📸 Prints da Interface
 
