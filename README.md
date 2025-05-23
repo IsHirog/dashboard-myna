@@ -117,17 +117,3 @@ Certifique-se de que o caminho está correto e a imagem está no repositório ou
 
 ---
 
-### ✅ Como usar isso no repositório
-
-1. Crie uma pasta chamada `assets` na raiz do seu projeto:
-   ```
-   /dashboard-myna
-   ┣ /assets
-   ┃ ┣ inspiracao.png
-   ┃ ┗ interface-final.png
-   ┗ README.md
-   ```
-
-2. Salve suas capturas de tela com nomes claros como `inspiracao.png` e `interface-final.png`.
-
-3. O `README.md` vai detectar automaticamente se os caminhos estiverem corretos.
